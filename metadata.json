@@ -1,0 +1,6 @@
+{
+  "name": "課堂點名抽籤與自動分組小幫手",
+  "description": "專為教師設計的教學輔助工具，支援 CSV 上傳與名單貼上、隨機抽籤（附動畫音效與不重複模式）及視覺化自動分組功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
